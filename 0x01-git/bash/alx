@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-ALX School is cool! 
-=======
-ALX School
->>>>>>> origin/update_script
-#!/bin/bash
-echo "ALX"
+ALX

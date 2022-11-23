@@ -1,4 +1,2 @@
-#/!bin/bast
-The school is open!
-#!/bin/bash
-echo "School"
+#!/nin/bash
+School
